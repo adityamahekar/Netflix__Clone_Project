@@ -26,15 +26,12 @@ This project replicates the **UI and layout of Netflix’s homepage**, focusing 
 
 ## 🖼️ Preview
 
-### Homepage  
-![Homepage](./img/p44.png)
 
-### Features Section  
+
 ![Features](./img/p44b.png)
 
-### FAQ Section  
 ![FAQ](./img/p44c.png)
-
+![Homepage](./img/p44.png)
 ---
 
 ## 🔗 Live Link
